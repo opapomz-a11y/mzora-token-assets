@@ -1,0 +1,13 @@
+CHECKLIST DE PUBLICAÇÃO — MZORA (MZR)
+
+[ ] Criar/iniciar sessão na conta GitHub do responsável.
+[ ] Criar repositório público: mzora-token-assets.
+[ ] Carregar README.md, index.html, token-metadata.json e pasta assets/.
+[ ] Confirmar que o logótipo abre numa janela privada sem iniciar sessão.
+[ ] Rever descrição, decimals e contacto antes de submeter metadados.
+[ ] Ativar GitHub Pages nas definições do repositório para publicar o site.
+[ ] Guardar o URL público do repositório e do site.
+[ ] Só depois submeter pedido ao Etherscan e analisar separadamente requisitos de cada carteira/token list.
+
+A publicação no GitHub não garante aprovação nem exibição automática em carteiras/exploradores.
+Nunca publicar chaves privadas, frases-semente ou passwords.

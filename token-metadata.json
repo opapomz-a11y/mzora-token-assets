@@ -1,0 +1,13 @@
+{
+  "name": "MZORA TOKEN",
+  "symbol": "MZR",
+  "chain": "Ethereum Mainnet",
+  "chainId": 1,
+  "address": "0x873D0A2f6741B9d2aFEDF674A17fF101B724437c",
+  "decimals": null,
+  "logoURI": "assets/mzora-logo-256.png",
+  "description": "MZORA (MZR) is a token project. Review the official contract details and project disclosures before interacting with the token.",
+  "website": null,
+  "explorer": "https://etherscan.io/token/0x873D0A2f6741B9d2aFEDF674A17fF101B724437c",
+  "status": "Draft metadata. Verify decimals and all project details before publication."
+}
